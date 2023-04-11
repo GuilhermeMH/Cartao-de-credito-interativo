@@ -8,9 +8,9 @@
 Com este gerador de cartões, você pode gerar cartões de crédito válidos com um nome, número de cartão, CVC e data de validade. Ele é útil para testar sistemas de pagamento em ambientes de teste.
 
 ## Funcionalidades
--Geração aleatória de cartões de crédito válidos
--Interface amigável para inserção de dados
--Validação de dados para garantir que os cartões gerados sejam válidos
+- Geração aleatória de cartões de crédito válidos
+- Interface amigável para inserção de dados
+- Validação de dados para garantir que os cartões gerados sejam válidos
 
 ## Como usar
 Para usar este gerador de cartões, basta você pode inserir o nome, número do cartão, CVC e data de validade desejados nos campos fornecidos.
