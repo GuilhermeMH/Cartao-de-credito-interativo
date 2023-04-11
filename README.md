@@ -1,7 +1,8 @@
 # Gerador de cartões
 ![Preview](./design/complete-state-desktop.jpg)
 ![Preview Mobile](./design/complete-state-mobile.jpg)
-Este é um projeto de gerador de cartões de crédito criado usando HTML, CSS e JavaScript.
+
+
 
 ## Visão geral
 Com este gerador de cartões, você pode gerar cartões de crédito válidos com um nome, número de cartão, CVC e data de validade. Ele é útil para testar sistemas de pagamento em ambientes de teste.
