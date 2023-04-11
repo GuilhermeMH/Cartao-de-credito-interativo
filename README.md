@@ -1,6 +1,6 @@
 # Gerador de cartões
-![Preview](./design/complete-state-desktop.jpg)
-![Preview Mobile](./design/complete-state-mobile.jpg)
+![Preview](./design/desktop-design.jpg)
+![Preview Mobile](./design/mobile-design.jpg)
 
 
 
