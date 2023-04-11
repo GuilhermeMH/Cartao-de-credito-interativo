@@ -30,4 +30,4 @@ Este projeto é uma ferramenta útil para testar sistemas de pagamento em ambien
 
 ## Autor 
 - Website - [Guilherme Moura Henrique](https://github.com/guilhermemh)
-- LinkedIn - [Guilherme Moura] (https://www.linkedin.com/in/guilhermemhenrique/)
+- LinkedIn - [Guilherme Moura](https://www.linkedin.com/in/guilhermemhenrique/)
