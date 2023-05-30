@@ -2,7 +2,7 @@
 ![Preview](./design/desktop-design.jpg)
 ![Preview Mobile](./design/mobile-design.jpg)
 
-.
+
 
 ## Visão geral
 Com este gerador de cartões, você pode gerar cartões de crédito válidos com um nome, número de cartão, CVC e data de validade. Ele é útil para testar sistemas de pagamento em ambientes de teste.
